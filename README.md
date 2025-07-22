@@ -6,7 +6,7 @@ This repository contains **visualizations, animations, and media outputs** from 
 
 ## 1. Moving Phase Screen (MegaScreen Simulation)
 
-**Description:** Simulated phase distortions of a telescope aperture caused by atmospheric turbulence, generated with the **MegaScreen** library. The animation shows the evolution of a 2D phase screen under the frozen-flow hypothesis, where wind carries a static turbulence pattern across the aperture.
+**Description:** Simulated phase distortions seen in a telescope aperture caused by atmospheric turbulence, generated with the **MegaScreen** library. The animation shows the evolution of a 2D phase screen under the frozen-flow hypothesis, where wind carries a static turbulence pattern across the aperture.
 
 ![Moving Phase Screen](https://raw.githubusercontent.com/Miguel88Alzate/git-hosting/main/phase_evolution_r0_3cm.gif)
 
