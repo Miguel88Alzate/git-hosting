@@ -4,15 +4,15 @@ This repository contains **visualizations, animations, and media outputs** from 
 
 ---
 
-## 1. Moving Phase Screen (MegaScreen Simulation)
+## 1. Moving Phase Screen (MegaScreen Simulation) [**MegaScreen Documentation**](https://megascreen.readthedocs.io/en/latest)
 
-**Description:** Simulated phase distortions seen in a telescope aperture caused by atmospheric turbulence, generated with the **MegaScreen** library. The animation shows the evolution of a 2D phase screen under the frozen-flow hypothesis, where wind carries a static turbulence pattern across the aperture.
+**Description:** Simulated phase distortions of a telescope aperture caused by atmospheric turbulence, generated with the **MegaScreen** library. The animation shows the evolution of a 2D phase screen under the frozen-flow hypothesis, where wind carries a static turbulence pattern across the aperture.
 
 ![Moving Phase Screen](https://raw.githubusercontent.com/Miguel88Alzate/git-hosting/main/phase_evolution_r0_3cm.gif)
 
 ---
 
-## 2. Dynamic PSF Computed via FFT of the Moving Phase Screen (Telescope Pupil)
+## 2. Dynamic PSF Computed via FFT of the Moving Phase Screen
 
 **Description:** The time-evolving Point Spread Function (PSF) is computed by applying a **Fourier Transform (FFT)** to the complex wavefront at the **telescope pupil**. This illustrates how turbulence dynamically modulates the diffraction pattern and blurs the incoming light during an observation.
 
